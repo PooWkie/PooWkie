@@ -1,0 +1,10 @@
+>>> a = 0
+>>> b = 0
+>>> c = 0
+>>> print("voer 3 getallen in gescheiden door een spatie")
+voer 3 getallen in gescheiden door een spatie
+>>> a, b, c, = map(int, input(). split())
+8 38 89
+>>> gemiddelde = (a + b + c) /3
+>>> print(f"Het gemiddelde van {a}, {b} en {c} is: {gemiddelde}")
+Het gemiddelde van 8, 38 en 89 is: 45.0
