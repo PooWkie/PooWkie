@@ -1,0 +1,11 @@
+Functie voor berekenen leeftijd in maanden in Pyhton.
+
+>>> leeftijd = 0
+>>> print("wat is uw leeftijd in jaren")
+wat is uw leeftijd in jaren
+>>> leeftijd = int(input())
+43
+>>> leeftijd_in_maanden = leeftijd * 12
+>>> print(f"uw leeftijd in maanden is {leeftijd_in_maanden} maanden")
+uw leeftijd in maanden is 516 maanden
+>>> 
