@@ -1,0 +1,8 @@
+>>> omtrek = 0
+>>> print("wat is de straal van de cirkel")
+wat is de straal van de cirkel
+>>> straal = float(input())
+5.16
+>>> omtrek_cirkel = straal * 2 * math.pi
+>>> print(f"De omtrek van de cirkel is: {omtrek_cirkel}")
+De omtrek van de cirkel is: 32.421236185046666
